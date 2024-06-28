@@ -16,7 +16,7 @@
     "draftjs-to-markdown": "^0.6.0",
     "dva": "2.4.1",
     "dva-model-extend": "^0.1.2",
-    "echarts": "^4.4.0",
+    "echarts": "^5.5.1",
     "echarts-for-react": "^2.0.15-beta.1",
     "echarts-gl": "^1.1.1",
     "echarts-liquidfill": "^2.0.2",
